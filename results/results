@@ -1,0 +1,1051 @@
+#
+# Results on Monday September 21 2020 18:11:19 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 1
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,Form,2,0,intro,NULL,name,基本
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,4,0,practice,NULL,小张喜欢和朋友去电影院。
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,4,0,practice,NULL,NULL,2,NULL,2030
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,5,0,practice,NULL,小王作业写。
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,5,0,practice,NULL,NULL,4,NULL,884
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,6,0,practice,NULL,小明没吃了饭。
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,6,0,practice,NULL,NULL,5,NULL,673
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,7,0,practice,NULL,小红的汉语很不差
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,7,0,practice,NULL,NULL,6,NULL,619
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,8,0,practice,NULL,小新很爱看电视。
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,8,0,practice,NULL,NULL,4,NULL,811
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,47,0,F-1F.02,NULL,他有三大本书。
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,47,0,F-1F.02,NULL,NULL,6,NULL,1544
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,52,0,F-4F.02,NULL,他有三大本书。
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,52,0,F-4F.02,NULL,NULL,3,NULL,1199
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,15,0,Neg.C,2,昨天你没等我就吃了蛋糕。
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,15,0,Neg.C,2,NULL,6,NULL,954
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,34,0,Ma.A,3,小林：你认识谁吗？小明：是啊。
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,34,0,Ma.A,3,NULL,4,NULL,659
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,50,0,F-3F.01,NULL,我购买一个苹果。
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,50,0,F-3F.01,NULL,NULL,2,NULL,651
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,46,0,F-1F.01,NULL,他买了三个杯子。
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,46,0,F-1F.01,NULL,NULL,7,NULL,888
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,11,0,Neg.B,1,昨天谁没问我就用了电脑。
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,11,0,Neg.B,1,NULL,6,NULL,1632
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,38,0,Ma.B,4,妈妈：谁在听音乐吗？小美：对啊。
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,38,0,Ma.B,4,NULL,7,NULL,1055
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,49,0,F-2F.02,NULL,三个学生们在学习。
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,49,0,F-2F.02,NULL,NULL,7,NULL,824
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,51,0,F-4F.01,NULL,北京的学校们很早开学。
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,51,0,F-4F.01,NULL,NULL,2,NULL,666
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,48,0,F-2F.01,NULL,他有三箱的书。
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,48,0,F-2F.01,NULL,NULL,4,NULL,666
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,25,0,Neg.A,6,昨天你没说什么就去了中国。
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,25,0,Neg.A,6,NULL,5,NULL,788
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,42,0,Ma.C,5,小林：你在喝咖啡吗？小明：是啊。
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,42,0,Ma.C,5,NULL,3,NULL,1278
+1600711880,2a4d4fef854d2b9e010c33473cc203bd,FlashSentence,53,0,hiddenCompletionCode,NULL,LIR8223550807
+#
+# Results on Monday September 21 2020 18:14:40 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 0
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,Form,2,0,intro,NULL,name,mn 
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,4,0,practice,NULL,小张喜欢和朋友去电影院。
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,4,0,practice,NULL,NULL,1,NULL,765
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,5,0,practice,NULL,小王作业写。
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,5,0,practice,NULL,NULL,1,NULL,231
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,6,0,practice,NULL,小明没吃了饭。
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,6,0,practice,NULL,NULL,1,NULL,239
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,7,0,practice,NULL,小红的汉语很不差
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,7,0,practice,NULL,NULL,1,NULL,337
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,8,0,practice,NULL,小新很爱看电视。
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,8,0,practice,NULL,NULL,1,NULL,218
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,49,0,F-2F.02,NULL,三个学生们在学习。
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,49,0,F-2F.02,NULL,NULL,2,NULL,932
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,48,0,F-2F.01,NULL,他有三箱的书。
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,48,0,F-2F.01,NULL,NULL,1,NULL,774
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,46,0,F-1F.01,NULL,他买了三个杯子。
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,46,0,F-1F.01,NULL,NULL,4,NULL,705
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,37,0,Ma.A,4,妈妈：你在听什么吗？小美：对啊。
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,37,0,Ma.A,4,NULL,5,NULL,991
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,14,0,Neg.B,2,昨天谁没等我就吃了蛋糕。
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,14,0,Neg.B,2,NULL,7,NULL,851
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,50,0,F-3F.01,NULL,我购买一个苹果。
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,50,0,F-3F.01,NULL,NULL,5,NULL,784
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,47,0,F-1F.02,NULL,他有三大本书。
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,47,0,F-1F.02,NULL,NULL,3,NULL,971
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,41,0,Ma.B,5,小林：谁在喝咖啡吗？小明：是啊。
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,41,0,Ma.B,5,NULL,6,NULL,757
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,10,0,Neg.A,1,昨天你没问谁就用了电脑。
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,10,0,Neg.A,1,NULL,7,NULL,657
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,51,0,F-4F.01,NULL,北京的学校们很早开学。
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,51,0,F-4F.01,NULL,NULL,2,NULL,945
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,52,0,F-4F.02,NULL,他有三大本书。
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,52,0,F-4F.02,NULL,NULL,5,NULL,1020
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,45,0,Ma.C,6,小美：你去看他吗？小李：对啊。
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,45,0,Ma.C,6,NULL,5,NULL,421
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,18,0,Neg.C,3,昨天你没请我就喝了红酒。
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,18,0,Neg.C,3,NULL,5,NULL,254
+1600712081,2a4d4fef854d2b9e010c33473cc203bd,FlashSentence,53,0,hiddenCompletionCode,NULL,LIR9704072359
+#
+# Results on Monday September 21 2020 18:16:35 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 1
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600712195,2a4d4fef854d2b9e010c33473cc203bd,Form,2,0,intro,NULL,name,mn 
+1600712195,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,4,0,practice,NULL,小张喜欢和朋友去电影院。
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600712195,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,4,0,practice,NULL,NULL,1,NULL,622
+1600712195,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,5,0,practice,NULL,小王作业写。
+1600712195,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,5,0,practice,NULL,NULL,1,NULL,199
+1600712195,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,6,0,practice,NULL,小明没吃了饭。
+1600712195,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,6,0,practice,NULL,NULL,1,NULL,217
+1600712195,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,7,0,practice,NULL,小红的汉语很不差
+1600712195,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,7,0,practice,NULL,NULL,1,NULL,155
+1600712195,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,8,0,practice,NULL,小新很爱看电视。
+1600712195,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,8,0,practice,NULL,NULL,1,NULL,156
+1600712195,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,20,0,Ma.A,5,小林：你在喝什么吗？小明：是啊。
+1600712195,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,20,0,Ma.A,5,NULL,4,NULL,974
+1600712195,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,15,0,Neg.A,6,昨天你没说什么就去了中国。
+1600712195,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,15,0,Neg.A,6,NULL,4,NULL,411
+1600712195,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,16,0,Ma.A,1,小美：你在想谁吗？小明：是啊。
+1600712195,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,16,0,Ma.A,1,NULL,4,NULL,356
+1600712195,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,13,0,Neg.A,4,昨天你没穿什么就去了外面。
+1600712195,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,13,0,Neg.A,4,NULL,4,NULL,324
+1600712195,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,18,0,Ma.A,3,小林：你认识谁吗？小明：是啊。
+1600712195,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,18,0,Ma.A,3,NULL,4,NULL,210
+1600712195,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,11,0,Neg.A,2,昨天你没等谁就吃了蛋糕。
+1600712195,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,11,0,Neg.A,2,NULL,4,NULL,279
+1600712195,2a4d4fef854d2b9e010c33473cc203bd,FlashSentence,22,0,hiddenCompletionCode,NULL,LIR671199143
+#
+# Results on Monday September 21 2020 18:23:05 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 2
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600712586,2a4d4fef854d2b9e010c33473cc203bd,Form,1,0,intro,NULL,name,wef
+1600712586,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,3,0,practice,NULL,小张喜欢和朋友去电影院。
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600712586,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,3,0,practice,NULL,NULL,1,NULL,823
+1600712586,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,4,0,practice,NULL,小王作业写。
+1600712586,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,4,0,practice,NULL,NULL,1,NULL,465
+1600712586,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,5,0,practice,NULL,小明没吃了饭。
+1600712586,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,5,0,practice,NULL,NULL,1,NULL,368
+1600712586,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,6,0,practice,NULL,小红的汉语很不差
+1600712586,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,6,0,practice,NULL,NULL,1,NULL,131
+1600712586,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,7,0,practice,NULL,小新很爱看电视。
+1600712586,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,7,0,practice,NULL,NULL,1,NULL,148
+1600712586,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,18,0,Ma.A,4,妈妈：你在听什么吗？小美：对啊。
+1600712586,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,18,0,Ma.A,4,NULL,1,NULL,1002
+1600712586,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,11,0,Neg.A,3,昨天你没请谁就喝了红酒。
+1600712586,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,11,0,Neg.A,3,NULL,1,NULL,945
+1600712586,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,20,0,Ma.A,6,小美：你去看谁吗？小李：对啊。
+1600712586,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,20,0,Ma.A,6,NULL,1,NULL,471
+1600712586,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,9,0,Neg.A,1,昨天你没问谁就用了电脑。
+1600712586,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,9,0,Neg.A,1,NULL,1,NULL,406
+1600712586,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,16,0,Ma.A,2,小王：你去吃什么吗？小李： 是啊。
+1600712586,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,16,0,Ma.A,2,NULL,1,NULL,284
+1600712586,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,13,0,Neg.A,5,昨天你没带什么就来了学校。
+1600712586,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,13,0,Neg.A,5,NULL,1,NULL,380
+1600712586,2a4d4fef854d2b9e010c33473cc203bd,FlashSentence,21,0,hiddenCompletionCode,NULL,LIR6395093059
+#
+# Results on Monday September 21 2020 18:29:16 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 4
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600712956,2a4d4fef854d2b9e010c33473cc203bd,Form,2,0,intro,NULL,name,sdf
+1600712956,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,4,0,practice,NULL,小张喜欢和朋友去电影院。
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600712956,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,4,0,practice,NULL,NULL,1,NULL,808
+1600712956,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,5,0,practice,NULL,小王作业写。
+1600712956,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,5,0,practice,NULL,NULL,1,NULL,139
+1600712956,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,6,0,practice,NULL,小明没吃了饭。
+1600712956,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,6,0,practice,NULL,NULL,1,NULL,151
+1600712956,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,7,0,practice,NULL,小红的汉语很不差
+1600712956,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,7,0,practice,NULL,NULL,1,NULL,145
+1600712956,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,8,0,practice,NULL,小新很爱看电视。
+1600712956,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,8,0,practice,NULL,NULL,1,NULL,147
+1600712956,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,21,0,Ma.A,6,小美：你去看谁吗？小李：对啊。
+1600712956,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,21,0,Ma.A,6,NULL,1,NULL,1017
+1600712956,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,12,0,Neg.A,3,昨天你没请谁就喝了红酒。
+1600712956,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,12,0,Neg.A,3,NULL,1,NULL,402
+1600712956,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,17,0,Ma.A,2,小王：你去吃什么吗？小李： 是啊。
+1600712956,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,17,0,Ma.A,2,NULL,1,NULL,351
+1600712956,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,10,0,Neg.A,1,昨天你没问谁就用了电脑。
+1600712956,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,10,0,Neg.A,1,NULL,1,NULL,287
+1600712956,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,19,0,Ma.A,4,妈妈：你在听什么吗？小美：对啊。
+1600712956,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,19,0,Ma.A,4,NULL,1,NULL,421
+1600712956,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,14,0,Neg.A,5,昨天你没带什么就来了学校。
+1600712956,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,14,0,Neg.A,5,NULL,1,NULL,321
+1600712956,2a4d4fef854d2b9e010c33473cc203bd,FlashSentence,22,0,hiddenCompletionCode,NULL,LIR9275398003
+#
+# Results on Monday September 21 2020 18:50:57 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 2
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600714257,2a4d4fef854d2b9e010c33473cc203bd,Form,2,0,intro,NULL,name,mn
+1600714257,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,4,0,practice,NULL,小张喜欢和朋友去电影院。
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600714257,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,4,0,practice,NULL,NULL,1,NULL,842
+1600714257,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,5,0,practice,NULL,小王作业写。
+1600714257,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,5,0,practice,NULL,NULL,1,NULL,412
+1600714257,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,6,0,practice,NULL,小明没吃了饭。
+1600714257,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,6,0,practice,NULL,NULL,1,NULL,395
+1600714257,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,7,0,practice,NULL,小红的汉语很不差
+1600714257,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,7,0,practice,NULL,NULL,1,NULL,149
+1600714257,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,8,0,practice,NULL,小新很爱看电视。
+1600714257,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,8,0,practice,NULL,NULL,1,NULL,136
+1600714257,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,21,0,Ma.A,6,小美：你去看谁吗？小李：对啊。
+1600714257,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,21,0,Ma.A,6,NULL,3,NULL,839
+1600714257,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,10,0,Neg.A,1,昨天你没问谁就用了电脑。
+1600714257,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,10,0,Neg.A,1,NULL,5,NULL,996
+1600714257,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,19,0,Ma.A,4,妈妈：你在听什么吗？小美：对啊。
+1600714257,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,19,0,Ma.A,4,NULL,1,NULL,666
+1600714257,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,14,0,Neg.A,5,昨天你没带什么就来了学校。
+1600714257,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,14,0,Neg.A,5,NULL,7,NULL,697
+1600714257,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,17,0,Ma.A,2,小王：你去吃什么吗？小李： 是啊。
+1600714257,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,17,0,Ma.A,2,NULL,4,NULL,1168
+1600714257,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,12,0,Neg.A,3,昨天你没请谁就喝了红酒。
+1600714257,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,12,0,Neg.A,3,NULL,6,NULL,709
+1600714257,2a4d4fef854d2b9e010c33473cc203bd,FlashSentence,22,0,hiddenCompletionCode,NULL,LIR660041146
+#
+# Results on Monday September 21 2020 18:51:28 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 3
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600714289,2a4d4fef854d2b9e010c33473cc203bd,Form,2,0,intro,NULL,name,kjn
+1600714289,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,4,0,practice,NULL,小张喜欢和朋友去电影院。
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600714289,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,4,0,practice,NULL,NULL,1,NULL,833
+1600714289,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,5,0,practice,NULL,小王作业写。
+1600714289,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,5,0,practice,NULL,NULL,1,NULL,348
+1600714289,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,6,0,practice,NULL,小明没吃了饭。
+1600714289,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,6,0,practice,NULL,NULL,1,NULL,164
+1600714289,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,7,0,practice,NULL,小红的汉语很不差
+1600714289,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,7,0,practice,NULL,NULL,1,NULL,139
+1600714289,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,8,0,practice,NULL,小新很爱看电视。
+1600714289,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,8,0,practice,NULL,NULL,1,NULL,121
+1600714289,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,16,0,Ma.A,1,小美：你在想谁吗？小明：是啊。
+1600714289,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,16,0,Ma.A,1,NULL,3,NULL,859
+1600714289,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,13,0,Neg.A,4,昨天你没穿什么就去了外面。
+1600714289,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,13,0,Neg.A,4,NULL,5,NULL,675
+1600714289,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,18,0,Ma.A,3,小林：你认识谁吗？小明：是啊。
+1600714289,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,18,0,Ma.A,3,NULL,7,NULL,604
+1600714289,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,15,0,Neg.A,6,昨天你没说什么就去了中国。
+1600714289,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,15,0,Neg.A,6,NULL,2,NULL,672
+1600714289,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,20,0,Ma.A,5,小林：你在喝什么吗？小明：是啊。
+1600714289,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,20,0,Ma.A,5,NULL,4,NULL,837
+1600714289,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,11,0,Neg.A,2,昨天你没等谁就吃了蛋糕。
+1600714289,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,11,0,Neg.A,2,NULL,7,NULL,636
+1600714289,2a4d4fef854d2b9e010c33473cc203bd,FlashSentence,22,0,hiddenCompletionCode,NULL,LIR4251340421
+#
+# Results on Monday September 21 2020 18:53:12 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 0
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600714393,2a4d4fef854d2b9e010c33473cc203bd,Form,2,0,intro,NULL,name,sdf
+1600714393,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,4,0,practice,NULL,小张喜欢和朋友去电影院。
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600714393,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,4,0,practice,NULL,NULL,1,NULL,824
+1600714393,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,5,0,practice,NULL,小王作业写。
+1600714393,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,5,0,practice,NULL,NULL,1,NULL,158
+1600714393,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,6,0,practice,NULL,小明没吃了饭。
+1600714393,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,6,0,practice,NULL,NULL,1,NULL,166
+1600714393,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,7,0,practice,NULL,小红的汉语很不差
+1600714393,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,7,0,practice,NULL,NULL,1,NULL,152
+1600714393,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,8,0,practice,NULL,小新很爱看电视。
+1600714393,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,8,0,practice,NULL,NULL,1,NULL,156
+1600714393,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,21,0,Ma.A,6,小美：你去看谁吗？小李：对啊。
+1600714393,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,21,0,Ma.A,6,NULL,1,NULL,1014
+1600714393,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,14,0,Neg.A,5,昨天你没带什么就来了学校。
+1600714393,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,14,0,Neg.A,5,NULL,1,NULL,370
+1600714393,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,17,0,Ma.A,2,小王：你去吃什么吗？小李： 是啊。
+1600714393,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,17,0,Ma.A,2,NULL,1,NULL,156
+1600714393,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,12,0,Neg.A,3,昨天你没请谁就喝了红酒。
+1600714393,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,12,0,Neg.A,3,NULL,1,NULL,331
+1600714393,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,19,0,Ma.A,4,妈妈：你在听什么吗？小美：对啊。
+1600714393,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,19,0,Ma.A,4,NULL,1,NULL,127
+1600714393,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,10,0,Neg.A,1,昨天你没问谁就用了电脑。
+1600714393,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,10,0,Neg.A,1,NULL,1,NULL,113
+1600714393,2a4d4fef854d2b9e010c33473cc203bd,FlashSentence,22,0,hiddenCompletionCode,NULL,LIR1712788292
+#
+# Results on Tuesday September 22 2020 08:23:16 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 15
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600762997,2a4d4fef854d2b9e010c33473cc203bd,Form,2,0,intro,NULL,name,第三方
+1600762997,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,4,0,practice,NULL,小张喜欢和朋友去电影院。
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600762997,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,4,0,practice,NULL,NULL,7,NULL,7796
+1600762997,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,5,0,practice,NULL,小王作业写。
+1600762997,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,5,0,practice,NULL,NULL,1,NULL,2425
+1600762997,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,6,0,practice,NULL,小明没吃了饭。
+1600762997,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,6,0,practice,NULL,NULL,5,NULL,3837
+1600762997,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,7,0,practice,NULL,小红的汉语很不差
+1600762997,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,7,0,practice,NULL,NULL,5,NULL,2740
+1600762997,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,8,0,practice,NULL,小新很爱看电视。
+1600762997,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,8,0,practice,NULL,NULL,7,NULL,2021
+1600762997,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,13,0,Neg.A,4,昨天你没穿什么就去了外面。
+1600762997,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,13,0,Neg.A,4,NULL,5,NULL,1921
+1600762997,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,18,0,Ma.A,3,小林：你认识谁吗？小明：是啊。
+1600762997,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,18,0,Ma.A,3,NULL,3,NULL,2259
+1600762997,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,11,0,Neg.A,2,昨天你没等谁就吃了蛋糕。
+1600762997,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,11,0,Neg.A,2,NULL,2,NULL,9610
+1600762997,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,16,0,Ma.A,1,小美：你在想谁吗？小明：是啊。
+1600762997,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,16,0,Ma.A,1,NULL,1,NULL,1135
+1600762997,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,15,0,Neg.A,6,昨天你没说什么就去了中国。
+1600762997,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,15,0,Neg.A,6,NULL,1,NULL,835
+1600762997,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,20,0,Ma.A,5,小林：你在喝什么吗？小明：是啊。
+1600762997,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,20,0,Ma.A,5,NULL,1,NULL,477
+1600762997,2a4d4fef854d2b9e010c33473cc203bd,FlashSentence,22,0,hiddenCompletionCode,NULL,LIR490927889
+#
+# Results on Tuesday September 22 2020 08:25:04 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 16
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,Form,2,0,intro,NULL,name,史蒂芬
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,4,0,practice,NULL,小张喜欢和朋友去电影院。
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,4,0,practice,NULL,NULL,1,NULL,1029
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,5,0,practice,NULL,小王作业写。
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,5,0,practice,NULL,NULL,1,NULL,167
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,6,0,practice,NULL,小明没吃了饭。
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,6,0,practice,NULL,NULL,1,NULL,136
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,7,0,practice,NULL,小红的汉语很不差
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,7,0,practice,NULL,NULL,1,NULL,126
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,8,0,practice,NULL,小新很爱看电视。
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,8,0,practice,NULL,NULL,1,NULL,150
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,13,0,Neg.A,4,昨天你没穿什么就去了外面。
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,13,0,Neg.A,4,NULL,1,NULL,1693
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,20,0,Ma.A,11,小林：你在喝什么吗？小明：是啊。
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,20,0,Ma.A,11,NULL,2,NULL,813
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,11,0,Neg.A,2,昨天你没等谁就吃了蛋糕。
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,11,0,Neg.A,2,NULL,3,NULL,674
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,19,0,Ma.A,10,妈妈：你在听什么吗？小美：对啊。
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,19,0,Ma.A,10,NULL,4,NULL,726
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,10,0,Neg.A,1,昨天你没问谁就用了电脑。
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,10,0,Neg.A,1,NULL,5,NULL,814
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,21,0,Ma.A,12,小美：你去看谁吗？小李：对啊。
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,21,0,Ma.A,12,NULL,6,NULL,730
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,14,0,Neg.A,5,昨天你没带什么就来了学校。
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,14,0,Neg.A,5,NULL,7,NULL,600
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,16,0,Ma.A,7,小美：你在想谁吗？小明：是啊。
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,16,0,Ma.A,7,NULL,5,NULL,659
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,15,0,Neg.A,6,昨天你没说什么就去了中国。
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,15,0,Neg.A,6,NULL,3,NULL,621
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,18,0,Ma.A,9,小林：你认识谁吗？小明：是啊。
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,18,0,Ma.A,9,NULL,2,NULL,881
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,12,0,Neg.A,3,昨天你没请谁就喝了红酒。
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,12,0,Neg.A,3,NULL,1,NULL,1155
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,17,0,Ma.A,8,小王：你去吃什么吗？小李： 是啊。
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,AcceptabilityJudgment,17,0,Ma.A,8,NULL,2,NULL,1221
+1600763105,2a4d4fef854d2b9e010c33473cc203bd,FlashSentence,22,0,hiddenCompletionCode,NULL,LIR8448413809
+#
+# Results on Tuesday September 22 2020 17:09:54 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0
+# Design number was non-random = 23
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,Form,2,0,intro,NULL,name,w
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,4,0,practice,NULL,小张喜欢和朋友去电影院。
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,4,0,practice,NULL,NULL,7,NULL,4401
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,5,0,practice,NULL,小王作业写。
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,5,0,practice,NULL,NULL,1,NULL,2045
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,6,0,practice,NULL,小明没吃了饭。
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,6,0,practice,NULL,NULL,3,NULL,3168
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,7,0,practice,NULL,小红的汉语很不差
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,7,0,practice,NULL,NULL,3,NULL,2837
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,8,0,practice,NULL,小新很爱看电视。
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,8,0,practice,NULL,NULL,7,NULL,1519
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,11,0,Neg.A,2,昨天你没等谁就吃了蛋糕。
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,11,0,Neg.A,2,NULL,7,NULL,3474
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,21,0,Ma.A,12,小美：你去看谁吗？小李：对啊。
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,21,0,Ma.A,12,NULL,7,NULL,3634
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,12,0,Neg.A,3,昨天你没请谁就喝了红酒。
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,12,0,Neg.A,3,NULL,7,NULL,2518
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,18,0,Ma.A,9,小林：你认识谁吗？小明：是啊。
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,18,0,Ma.A,9,NULL,7,NULL,2887
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,14,0,Neg.A,5,昨天你没带什么就来了学校。
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,14,0,Neg.A,5,NULL,7,NULL,2210
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,20,0,Ma.A,11,小林：你在喝什么吗？小明：是啊。
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,20,0,Ma.A,11,NULL,7,NULL,2358
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,10,0,Neg.A,1,昨天你没问谁就用了电脑。
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,10,0,Neg.A,1,NULL,4,NULL,1133
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,16,0,Ma.A,7,小美：你在想谁吗？小明：是啊。
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,16,0,Ma.A,7,NULL,7,NULL,1671
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,15,0,Neg.A,6,昨天你没说什么就去了中国。
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,15,0,Neg.A,6,NULL,6,NULL,1914
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,17,0,Ma.A,8,小王：你去吃什么吗？小李： 是啊。
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,17,0,Ma.A,8,NULL,7,NULL,1580
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,13,0,Neg.A,4,昨天你没穿什么就去了外面。
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,13,0,Neg.A,4,NULL,6,NULL,1329
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,19,0,Ma.A,10,妈妈：你在听什么吗？小美：对啊。
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,19,0,Ma.A,10,NULL,7,NULL,2487
+1600794594,b05b2b539f0d523061b96fd5efd61ebe,FlashSentence,22,0,hiddenCompletionCode,NULL,LIR2224127917
+#
+# Results on Tuesday September 22 2020 23:13:58 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0
+# Design number was non-random = 28
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,Form,2,0,intro,NULL,name,w
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,4,0,practice,NULL,小张喜欢和朋友去电影院。
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,4,0,practice,NULL,NULL,7,NULL,1953
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,5,0,practice,NULL,小王作业写。
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,5,0,practice,NULL,NULL,1,NULL,1547
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,6,0,practice,NULL,小明没吃了饭。
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,6,0,practice,NULL,NULL,3,NULL,1915
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,7,0,practice,NULL,小红的汉语很不差
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,7,0,practice,NULL,NULL,3,NULL,2174
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,8,0,practice,NULL,小新很爱看电视。
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,8,0,practice,NULL,NULL,7,NULL,1619
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,16,0,Ma.A,7,小张购买了辆汽车。
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,16,0,Ma.A,7,NULL,7,NULL,2822
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,14,0,Neg.A,5,昨天你没带什么就来了学校。
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,14,0,Neg.A,5,NULL,7,NULL,3288
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,19,0,Ma.A,10,妈妈：你在听什么吗？小美：对啊。
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,19,0,Ma.A,10,NULL,7,NULL,4893
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,10,0,Neg.A,1,昨天你没问谁就用了电脑。
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,10,0,Neg.A,1,NULL,7,NULL,1340
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,21,0,Ma.A,12,小美：你去看谁吗？小李：对啊。
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,21,0,Ma.A,12,NULL,7,NULL,5011
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,13,0,Neg.A,4,三个老师们在教室里说话。
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,13,0,Neg.A,4,NULL,3,NULL,1882
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,17,0,Ma.A,8,小王：你去吃什么吗？小李： 是啊。
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,17,0,Ma.A,8,NULL,6,NULL,1854
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,11,0,Neg.A,2,小张喝了三杯啤酒。
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,11,0,Neg.A,2,NULL,5,NULL,2699
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,18,0,Ma.A,9,桌子上有三大台电脑。
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,18,0,Ma.A,9,NULL,7,NULL,1383
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,15,0,Neg.A,6,昨天你没说什么就去了中国。
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,15,0,Neg.A,6,NULL,7,NULL,2173
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,20,0,Ma.A,11,桌子上有两中杯绿茶。
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,20,0,Ma.A,11,NULL,7,NULL,3466
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,12,0,Neg.A,3,昨天你没请谁就喝了红酒。
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,12,0,Neg.A,3,NULL,5,NULL,1425
+1600816439,b05b2b539f0d523061b96fd5efd61ebe,FlashSentence,22,0,hiddenCompletionCode,NULL,LIR2028508642
+#
+# Results on Wednesday September 23 2020 00:24:54 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 29
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600820695,572bb06a0517907c8cdea66c95735679,Form,2,0,intro,NULL,name,b
+1600820695,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,practice,NULL,小张喜欢和朋友去电影院。
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600820695,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,practice,NULL,NULL,3,NULL,2008
+1600820695,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,5,0,practice,NULL,小王作业写。
+1600820695,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,5,0,practice,NULL,NULL,3,NULL,616
+1600820695,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,6,0,practice,NULL,小明没吃了饭。
+1600820695,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,6,0,practice,NULL,NULL,3,NULL,536
+1600820695,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,7,0,practice,NULL,小红的汉语很不差
+1600820695,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,7,0,practice,NULL,NULL,4,NULL,927
+1600820695,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,8,0,practice,NULL,小新很爱看电视。
+1600820695,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,8,0,practice,NULL,NULL,4,NULL,915
+1600820695,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,16,0,Ma.A,7,小张购买了辆汽车。
+1600820695,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,16,0,Ma.A,7,NULL,3,NULL,4643
+1600820695,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,12,0,Neg.A,3,昨天你没请谁就喝了红酒。
+1600820695,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,12,0,Neg.A,3,NULL,6,NULL,1370
+1600820695,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,18,0,Ma.A,9,桌子上有三大台电脑。
+1600820695,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,18,0,Ma.A,9,NULL,3,NULL,883
+1600820695,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,11,0,Neg.A,2,小张喝了三杯啤酒。
+1600820695,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,11,0,Neg.A,2,NULL,1,NULL,804
+1600820695,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,19,0,Ma.A,10,妈妈：你在听什么吗？小美：对啊。
+1600820695,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,19,0,Ma.A,10,NULL,5,NULL,628
+1600820695,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,10,0,Neg.A,1,昨天你没问谁就用了电脑。
+1600820695,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,10,0,Neg.A,1,NULL,3,NULL,680
+1600820695,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,21,0,Ma.A,12,小美：你去看谁吗？小李：对啊。
+1600820695,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,21,0,Ma.A,12,NULL,5,NULL,897
+1600820695,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,13,0,Neg.A,4,三个老师们在教室里说话。
+1600820695,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,13,0,Neg.A,4,NULL,6,NULL,1568
+1600820695,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,20,0,Ma.A,11,桌子上有两中杯绿茶。
+1600820695,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,20,0,Ma.A,11,NULL,3,NULL,890
+1600820695,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,15,0,Neg.A,6,昨天你没说什么就去了中国。
+1600820695,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,15,0,Neg.A,6,NULL,2,NULL,2061
+1600820695,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,17,0,Ma.A,8,小王：你去吃什么吗？小李： 是啊。
+1600820695,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,17,0,Ma.A,8,NULL,5,NULL,1116
+1600820695,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,14,0,Neg.A,5,昨天你没带什么就来了学校。
+1600820695,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,14,0,Neg.A,5,NULL,7,NULL,1725
+1600820695,572bb06a0517907c8cdea66c95735679,FlashSentence,22,0,hiddenCompletionCode,NULL,LIR9487108099

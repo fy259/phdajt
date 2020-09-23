@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title> Experiment Questionaire </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style type="text/css">
+    body {
+      background: url("http://s12.postimg.org/cosr5owot/QBack.png");
+      text-align: left;
+      font-size: 88%;
+      font-family: Century Gothic;
+      text-align: left;
+    }
+
+    a {
+      text-decoration: none;
+    }
+
+    .body{
+      width: 100%;
+    }
+
+    form{
+      margin: 0 auto;
+      width: 90%;
+      clear: both;
+      padding: 2%;
+      border: 1px;
+      border-style: solid;
+      box-shadow: 10px 10px 5px #888888;
+      background-color: white;
+    }
+
+    input[type=submit] {
+      width: 135px;
+      height: 70px;
+      cursor:pointer;
+    }
+  </style>
+</head>
+
+
+<body class="body">
+
+<!--
+BEFORE THE PAGE CONTENT
+You might want to cache the images you are using in the experiment
+if timings are going to be recorded during the experiment.
+Below is an example of how to load an image without showing it.
+-->
+<div style="display:none">
+  <!-- List images here in the same syntax -->
+  <!-- <img src = "___image src____" /> -->
+  <img src = "http://www.sjsu.edu/linguistics/pics/lld_wordle_660px.jpg" />
+</div>
+
+
+
+<!-- Start of the actual, visible body of the file -->
+<form style="width: 40em;">
+<h1>欢迎回来！</h1>
+<p>
+这是一个汉语实验，在此实验中，你需要告诉我们您对一些汉语句子的感受。
+  </p>
+<p>对于每个句子，系统会要求你使用数字1到7，来判断这个句子对你来说是否可接受——1是指这个句子非常不自然、你非常不能接受，7是指这个句子非常自然、你非常能接受。</p>
+<p>请用鼠标点击相应数字来回答，你也可以用键盘上的数字键作答。</p>
+                    <p>所有句子都没有标准答案，你只需判断句子读起来是否自然，使用直觉，不要用语法规则来判断句子。</p>
+                    <p>有时你可能不确定选择哪个数字。 发生这种情况时，请以第一反应去作答，不要过度思考！</p>
+
+
+<!-- concent validation -->
+<table>
+
+<tr>
+  <td>你的姓名：</td><td><input name="name" type="text" size="30" class="obligatory" /></td>
+</tr>
+<tr>
+<td colspan="2"><label class="error" for="name"></label></td>
+</tr>
+
+</table>
+</form>
+
+
+
+</body>
+</html>
